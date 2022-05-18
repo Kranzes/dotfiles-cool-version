@@ -12,7 +12,6 @@
     go-jsonnet
     kind
     lazydocker
-    lazygit
     lens
     postman
     pulumi-bin
